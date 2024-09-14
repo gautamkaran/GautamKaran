@@ -9,6 +9,11 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamkaran&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamkaran&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+   
+  ![gautamkaran's Stats](https://github-readme-stats.vercel.app/api?username=gautamkaran&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+  ![gautamkaran's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautamkaran&theme=dracula&hide_border=false)
+ 
+  ![gautamkaran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkaran&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 </p>
+
