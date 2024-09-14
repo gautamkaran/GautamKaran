@@ -11,8 +11,6 @@
 <p align="left">
    
   ![gautamkaran's Stats](https://github-readme-stats.vercel.app/api?username=gautamkaran&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-
-  ![gautamkaran's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautamkaran&theme=dracula&hide_border=false)
  
   ![gautamkaran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkaran&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 </p>
